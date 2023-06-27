@@ -3,7 +3,7 @@
 ✉️ Email: sohail526@hotmail.com  
 📍 Location: Oxford, UK
 
-![Profile Picture](./images/profile_picture.jpg)
+![Profile Picture](./images/05_SOHAIL_SHEIKH_edits_17.jpeg)
 
 ## 👋 Welcome to my GitHub profile! 
 
